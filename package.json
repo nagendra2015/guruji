@@ -1,0 +1,25 @@
+{
+  "name": "swarayoga",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "framer-motion": "^10.12.2",
+    "next": "13.3.0",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "18.2.0",
+    "react-intersection-observer": "^9.4.3",
+    "react-social-media-embed": "^2.3.5"
+  },
+  "devDependencies": {
+    "eslint": "8.38.0",
+    "eslint-config-next": "13.3.0"
+  }
+}
